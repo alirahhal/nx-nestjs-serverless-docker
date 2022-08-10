@@ -1,0 +1,11 @@
+{
+  "name": "cdk-app",
+  "version": "0.1.0",
+  "bin": {
+    "cdk-app": "bin/cdk-app.js"
+  },
+  "scripts": {
+    "bootstrap": "cdk bootstrap",
+    "deploy": "cdk deploy"
+  }
+}
