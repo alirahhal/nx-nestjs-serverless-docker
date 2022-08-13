@@ -47,10 +47,6 @@ module.exports = (options) => {
             to: path.resolve(__dirname, '../../dist/apps/my-nest-app/node_modules/iterare')
           },
           {
-            from: path.resolve(__dirname, '../../node_modules/iterare'),
-            to: path.resolve(__dirname, '../../dist/apps/my-nest-app/node_modules/iterare')
-          },
-          {
             from: path.resolve(__dirname, '../../node_modules/reflect-metadata'),
             to: path.resolve(__dirname, '../../dist/apps/my-nest-app/node_modules/reflect-metadata')
           },
