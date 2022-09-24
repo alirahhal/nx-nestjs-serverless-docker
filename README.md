@@ -1,6 +1,6 @@
 ## NX-NESTJS-SERVERLESS-DOCKER
 
-This project demostrates how to use Nestjs SERVERLESS with Nx workspace. In addition to deploying code to lambda with container images.
+This project demostrates how to use Nestjs SERVERLESS with Nx workspace. Along with deploying code to lambda via container images.
 
 ## Getting Started
 
