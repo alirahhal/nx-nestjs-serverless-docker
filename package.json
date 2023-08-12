@@ -9,14 +9,15 @@
   },
   "private": true,
   "dependencies": {
+    "@nestjs/cli": "^10.0.2",
     "@nestjs/common": "^9.0.0",
     "@nestjs/core": "^9.0.0",
     "@nestjs/platform-express": "^9.0.0",
     "@types/aws-lambda": "^8.10.101",
     "@vendia/serverless-express": "^4.8.2",
-    "reflect-metadata": "^0.1.13",
     "cache-manager": "^4.0.1",
     "class-transformer": "^0.3.1",
+    "reflect-metadata": "^0.1.13",
     "rxjs": "^7.0.0",
     "tslib": "^2.3.0"
   },
